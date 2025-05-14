@@ -3,7 +3,7 @@
 A simple Python CLI tool to calculate your Body Mass Index (BMI) based on weight (kg) and height (cm).
 
 ## How to Run
-'''bash
+```bash
 python bmi_calculator.py
 
 === BMI CALCULATOR ===
