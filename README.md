@@ -13,7 +13,8 @@ Enter your height in cm: 175
 Your BMI is: 22.86
 Category: Normal weight
 
-## Categories
+```bash
+Categories
 
 Underweight: < 18.5
 Normal: 18.5 – 24.9
